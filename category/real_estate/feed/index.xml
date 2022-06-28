@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Real Estate Consultants - RVMC Consultants</title>
+	<atom:link href="https://rvmc.co.in/category/real_estate/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rvmc.co.in/</link>
+	<description>Consultants Services</description>
+	<lastBuildDate>Sat, 27 Nov 2021 09:59:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>https://rvmc.co.in/wp-content/uploads/2021/10/Favicon-Logo-150x150.png</url>
+	<title>Real Estate Consultants - RVMC Consultants</title>
+	<link>https://rvmc.co.in/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Real Estate Consultancy</title>
+		<link>https://rvmc.co.in/real-estate-consultancy/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=real-estate-consultancy</link>
+					<comments>https://rvmc.co.in/real-estate-consultancy/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Sat, 27 Nov 2021 09:59:37 +0000</pubDate>
+				<category><![CDATA[Real Estate Consultants]]></category>
+		<guid isPermaLink="false">https://rvmc.co.in/?p=1490</guid>
+
+					<description><![CDATA[<p>Company has been actively involved providing consultation in procurement of properties, Development of Land as per Government policies, preparation of Project Viability report and preparation of Market Strategy Feasibility reporting.</p>
+<p>The post <a href="https://rvmc.co.in/real-estate-consultancy/">Real Estate Consultancy</a> first appeared on <a href="https://rvmc.co.in/">RVMC Consultants</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Company has been actively involved providing consultation in procurement of properties, Development of Land as per Government policies, preparation of Project Viability report and preparation of Market Strategy Feasibility reporting.</p><p>The post <a href="https://rvmc.co.in/real-estate-consultancy/">Real Estate Consultancy</a> first appeared on <a href="https://rvmc.co.in/">RVMC Consultants</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://rvmc.co.in/real-estate-consultancy/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
